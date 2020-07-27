@@ -116,6 +116,7 @@ infom button:hover{
 .contact1{
     width: 1170px;
     margin: auto;
+    display: flex;
 }
 .menu img{border-radius: 17px;}
 .menu{
